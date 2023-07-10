@@ -7,7 +7,6 @@
 import argparse
 from dcbots.bots import YouTubeChannelFollower
 
-
 parser = argparse.ArgumentParser()
 parser.add_argument("-key", "--dev-key", help="Developer/API Key")
 parser.add_argument("-url", "--webhook-url", help="Discord Webhook URL")

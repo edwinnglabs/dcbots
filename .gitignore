@@ -133,3 +133,4 @@ dmypy.json
 
 # secrete for testing
 secrets.json
+*.DS_Store
