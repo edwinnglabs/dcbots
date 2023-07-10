@@ -130,7 +130,6 @@ dmypy.json
 
 # pycharm
 .idea/
-*.txt
 
 # secrete for testing
 secrets.json
